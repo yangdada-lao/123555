@@ -1,0 +1,11 @@
+hack/
+└── app/
+    └── src/
+        └── main/
+            ├── AndroidManifest.xml   # 你的 AndroidManifest.xml
+            └── java/
+                └── com/
+                    └── george/
+                        └── hackctl/
+                            ├── MainActivity.java
+                            └── FloatingService.java
